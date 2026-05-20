@@ -1,0 +1,16 @@
+
+> f1-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 549ms
+
+○ Compiling / ...
+ GET / 200 in 8.0s (next.js: 7.4s, application-code: 592ms)
+ GET / 200 in 146ms (next.js: 7ms, application-code: 138ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been deprecated. Using PCFShadowMap instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been deprecated. Using PCFShadowMap instead.
+[?25h
